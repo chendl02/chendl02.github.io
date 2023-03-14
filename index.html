@@ -64,7 +64,7 @@
 
 
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-     <!--     <tr>
+          <tr>
       <td style="padding:20px;width:100%;vertical-align:middle">
           <heading>Publications</heading>
         </td>
@@ -78,8 +78,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='ils_image'>
-                  <img src='images/shape.png' width="160"></div>
-                <img src='images/shape.png' width="160">
+                  <img src='images/MICCAI_Re_Training_For_Modality-Gnostic.png' width="160"></div>
+                <img src='images/MICCAI_Re_Training_For_Modality-Gnostic.png' width="160">
               </div>
               <script type="text/javascript">
                 function ils_start() {
@@ -94,19 +94,21 @@
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
               <a href="">
-                <papertitle>Towards Faster Hyperparameter-free Clustering using Enhanced Iterative Label Spreading</papertitle>
+                <papertitle>Query Re-Training for Modality-Gnostic Incomplete Multi-modal Brain Tumor Segmentation</papertitle>
               </a>
               <br>
-              <strong>Xinyue Xu</strong>
+              <strong>Delin Chen</strong>,
+              Yansheng Qiu,
+              <a href="https://scholar.google.com/citations?user=-WHTbpUAAAAJ&hl=zh-CN">Zheng Wang</a>
               <br>
-              <em>Honours Thesis</em>, 2022
+              <em>MICCAI</em>, 2023 (Under Review)
               <br>
-              ANU Database, may be released later.
+              <a href='data/MICCAI2023-Query Re-Training for Modality-Gnostic and Robust Incomplete Multi-modal Brain Tumor Segmentation.pdf'>paper</a>		
               <p></p>
               <p>
-                This thesis develops an enhanced version based on the original Iterative Label
-                Spreading Clustering which is specially designed for materials science, and aim to
-                become faster and have fewer hyperparameters.
+                we proposed an effective solution with only one encoder and one decoder which can provide the direct interaction of different modes within the encoder 
+                and a Modality-Gnostic transformer module with learnable modality combination embeddings as queries to effectively handle all the modality-missing states.
+                Furthermore, we adopt a query re-training mechanism to facilitate the model convergence to a better local minimum under small datasets.
               </p>
             </td>
           </tr>
@@ -115,8 +117,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='gnns_image'>
-                  <img src='images/GNNS.png' width="160"></div>
-                <img src='images/GNNS.png' width="160">
+                  <img src='images/ICCV_Vote.png' width="160"></div>
+                <img src='images/ICCV_Vote.png' width="160">
               </div>
               <script type="text/javascript">
                 function gnns_start() {
@@ -130,24 +132,26 @@
               </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-							<a href="https://arxiv.org/abs/2207.06684">
-                <papertitle>Subgraph frequency distribution estimation using graph neural network</papertitle>
-              </a>
+							
+                <papertitle>Scratch Each Other^s Back: Incomplete Multi-modal Brain Tumor
+                  Segmentation Via Category Aware Group Self-Support Learning</papertitle>
+              
               <br>
-              <a href="https://deepai.org/profile/zhongren-chen">Zhongren Chen&#42</a>, 
-              <strong>Xinyue Xu&#42</strong>,  
-              <a href="https://scholar.google.com/citations?user=v2eJuUkAAAAJ&hl=zh-CN">Shengyi Jiang</a>, 
-              <a href="https://scholar.google.com/citations?user=NrOA9QoAAAAJ&hl=zh-CN">Hao Wang</a>, 
-              <a href="https://scholar.google.com/citations?user=vokCG-MAAAAJ&hl=zh-CN">Lu Mi</a>
+              Yansheng Qiu*, 
+              <strong>Delin Chen*</strong>,  
+              Hongdou Yao,
+              <a href="https://scholar.google.fr/citations?user=ArIg7-0AAAAJ&hl=en">Yongchao Xu</a>, 
+              <a href="https://scholar.google.com/citations?user=-WHTbpUAAAAJ&hl=zh-CN">Zheng Wang</a>
               <br>
-              <em>KDD Workshop</em>, 2022  
+              <em>ICCV</em>, 2023 (Under Review) 
               <br>
-							<a href="https://arxiv.org/abs/2207.06684">arXiv</a>		
+							<a href='data/ICCV2023_Scratch_Each_Other_s_Back.pdf'>paper</a>		
               <p></p>
-              <p>Small subgraphs (graphlets) are important features to describe fundamental units of a large network.
-                Unfortunately due to the inherent complexity of this task, most of the existing methods are computationally intensive and inefficient. 
-                In this work, we propose GNNS, a novel representational learning framework 
-                that utilizes graph neural networks to sample subgraphs efficiently for estimating their frequency distribution. 
+              <p> We proposed Group Self-Support Learning
+                framework to utilize the dominating characteristics of several modalities to direct the distillation
+                of mutual knowledge between modalities without expanding the complexity of the initial network.
+                These researches aim to enhance the performance of medical imaging by leveraging the semantic
+                relationships between different modalities. The results obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
               </p>
             </td>
           </tr>
@@ -157,8 +161,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='fuzzy_image'>
-                  <img src='images/fuzzy.webp' width="160"></div>
-                <img src='images/fuzzy.webp' width="160">
+                  <img src='images/IJCAI_Contrastive.png' width="160"></div>
+                <img src='images/IJCAI_Contrastive.png' width="160">
               </div>
               <script type="text/javascript">
                 function fuzzy_start() {
@@ -172,22 +176,21 @@
               </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-							<a href="https://link.springer.com/chapter/10.1007/978-3-030-92185-9_19">
-                <papertitle>Classification Models for Medical Data with Interpretative Rules</papertitle>
-              </a>
+							
+                <papertitle>Cross Modal Reliable Pixel Contrastive Learning for Incomplete Modal Brain
+                  Tumor Segmentation</papertitle>
               <br>
-              <strong>Xinyue Xu</strong>,  
-              Xiang Ding, 
-              <a href="https://scholar.google.com/citations?user=z-fQRcUAAAAJ&hl=zh-CN">Zhenyue Qin</a>, 
-              <a href="https://scholar.google.com/citations?user=SLCxOTEAAAAJ&hl=zh-CN">Yang Liu</a>
+              Yansheng Qiu,
+              <strong>Delin Chen</strong>,  
+              <a href="https://scholar.google.com/citations?user=-WHTbpUAAAAJ&hl=zh-CN">Zheng Wang</a>,
+              <a href="https://scholar.google.com.sg/citations?user=TRfTdBAAAAAJ&hl=en">Yifang Yin</a>
               <br>
-              <em>ICONIP</em>, 2021  
+              <em>IJCAI</em>, 2023 (Under Review)  
               <br>
-							<a href="https://link.springer.com/chapter/10.1007/978-3-030-92185-9_19">Paper</a>		
+							<a href="https://chendl02.github.io/">Paper</a>		
               <p></p>
-              <p>We use a variety of classification models to recognize the positive cases of SARS. 
-                We conduct evaluation with two types of SARS datasets, numerical and categorical types. 
-                For the sake of more clear interpretability, we also generate explanatory rules for the models.
+              <p>We proposed a label inaccuracies-guided sampling strategy for each modality and then preserve the reliable region to reduce the likelihood of noise sampling. 
+                Next, we enforce reliable pixel embeddings belonging to the same semantic class to be more similar to those from different classes
               </p>
             </td>
           </tr>
@@ -196,8 +199,8 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='nad_image'>
-                  <img src='images/nad.gif' width="160"></div>
-                <img src='images/nad.gif' width="160">
+                  <img src='images/TIP_RefInpainting.png' width="160"></div>
+                <img src='images/TIP_RefInpainting.png' width="160">
               </div>
               <script type="text/javascript">
                 function nad_start() {
@@ -211,25 +214,31 @@
               </script>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-							<a href="https://ieeexplore.ieee.org/abstract/document/9414766">
-                <papertitle>Hybrid model for network anomaly detection with gradient boosting decision trees
-                  and tabtransformer</papertitle>
-              </a>
+							<!-- <a href="https://ieeexplore.ieee.org/abstract/document/9414766"> -->
+                <papertitle>TransRef: Multi-Scale Reference Embedding
+                  Transformer for Reference-Guided Image Inpainting</papertitle>
+              <!-- </a> -->
               <br>
-              <strong>Xinyue Xu</strong>,  
-              Xiaolu Zheng
+             
+              <a href="https://scholar.google.com/citations?user=kqTUHSIAAAAJ&hl=en&oi=ao">Liang Liao</a>,  
+              Taorong Liu, 
+              <strong>Delin Chen</strong>,  
+              Jing Xiao,
+              <a href="https://scholar.google.com/citations?user=-WHTbpUAAAAJ&hl=zh-CN">Zheng Wang</a>,
+              <a href="https://scholar.google.com.au/citations?user=fXN3dl0AAAAJ&hl=en">Chia-Wen Lin</a>,  
+              <a href="https://scholar.google.com/citations?user=7aEF5cQAAAAJ&hl=en">Shin'ichi Satoh</a>
               <br>
-              <em>ICASSP</em>, 2021  
+              <em>IEEE Transactions on Image Processing (Under Review)</em>, 2022 
               <br>
-							<a href="https://ieeexplore.ieee.org/abstract/document/9414766">Paper</a>		
+							<a href='data/TIP2022_Reference_based_Image_Inpainting.pdf'>Paper</a>		
               <p></p>
-              <p>In this paper, we present our solution for the ICASSP 2021 Network Anomaly Detection Challenge (NAD) challenge.  
+              <p>In this paper, we investigates the concept of reference-guided image inpainting as a means of completing complex scenes with insufficient information. To this end, we propose a transformer-based encoder-decoder network with a multi-scale reference embedding procedure to address the issues of image alignment and content restoration in the presence of
+                missing large regions.
               </p>
             </td>
           </tr>
 
         </tbody></table>
--->
         
       <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
         <tr>
