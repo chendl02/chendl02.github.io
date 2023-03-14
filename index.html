@@ -75,7 +75,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
           <tr onmouseout="ils_stop()" onmouseover="ils_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:35%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='ils_image'>
                   <img src='images/MICCAI_Re_Training_For_Modality-Gnostic.png' width="160"></div>
@@ -104,17 +104,16 @@
               <em>MICCAI</em>, 2023 (Under Review)
               <br>
               <a href='data/MICCAI2023-Query Re-Training for Modality-Gnostic and Robust Incomplete Multi-modal Brain Tumor Segmentation.pdf'>paper</a>		
-              <p></p>
+             
               <p>
-                we proposed an effective solution with only one encoder and one decoder which can provide the direct interaction of different modes within the encoder 
-                and a Modality-Gnostic transformer module with learnable modality combination embeddings as queries to effectively handle all the modality-missing states.
+                we proposed a Modality-Gnostic transformer module with learnable modality combination embeddings as queries to effectively handle all the modality-missing states.
                 Furthermore, we adopt a query re-training mechanism to facilitate the model convergence to a better local minimum under small datasets.
               </p>
             </td>
           </tr>
 					
           <tr onmouseout="gnns_stop()" onmouseover="gnns_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:35%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='gnns_image'>
                   <img src='images/ICCV_Vote.png' width="160"></div>
@@ -145,13 +144,11 @@
               <br>
               <em>ICCV</em>, 2023 (Under Review) 
               <br>
-							<a href='data/ICCV2023_Scratch_Each_Other_s_Back.pdf'>paper</a>		
-              <p></p>
+		<a href='data/ICCV2023_Scratch_Each_Other_s_Back.pdf'>paper</a>		
               <p> We proposed Group Self-Support Learning
-                framework to utilize the dominating characteristics of several modalities to direct the distillation
+                framework to utilize the dominating characteristics of modalities to direct the distillation
                 of mutual knowledge between modalities without expanding the complexity of the initial network.
-                These researches aim to enhance the performance of medical imaging by leveraging the semantic
-                relationships between different modalities. The results obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
+                The results obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
               </p>
             </td>
           </tr>
@@ -175,7 +172,7 @@
                 fuzzy_stop()
               </script>
             </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
+            <td style="padding:20px;width:35%;vertical-align:middle">
 							
                 <papertitle>Cross Modal Reliable Pixel Contrastive Learning for Incomplete Modal Brain
                   Tumor Segmentation</papertitle>
@@ -188,7 +185,7 @@
               <em>IJCAI</em>, 2023 (Under Review)  
               <br>
 							<a href="https://chendl02.github.io/">Paper</a>		
-              <p></p>
+              
               <p>We proposed a label inaccuracies-guided sampling strategy for each modality and then preserve the reliable region to reduce the likelihood of noise sampling. 
                 Next, we enforce reliable pixel embeddings belonging to the same semantic class to be more similar to those from different classes
               </p>
@@ -196,7 +193,7 @@
           </tr>
 
           <tr onmouseout="nad_stop()" onmouseover="nad_start()">
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:35%;vertical-align:middle">
               <div class="one">
                 <div class="two" id='nad_image'>
                   <img src='images/TIP_RefInpainting.png' width="160"></div>
@@ -232,7 +229,8 @@
               <br>
 							<a href='data/TIP2022_Reference_based_Image_Inpainting.pdf'>Paper</a>		
               <p></p>
-              <p>In this paper, we investigates the concept of reference-guided image inpainting as a means of completing complex scenes with insufficient information. To this end, we propose a transformer-based encoder-decoder network with a multi-scale reference embedding procedure to address the issues of image alignment and content restoration in the presence of
+              <p>In this paper, we investigate the concept of reference-guided image inpainting as a means of completing complex scenes with insufficient information.
+		  and propose a transformer-based encoder-decoder network with a multi-scale reference embedding procedure to address the issues of image alignment and content restoration in the presence of
                 missing large regions.
               </p>
             </td>
