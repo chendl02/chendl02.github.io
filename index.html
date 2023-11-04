@@ -68,7 +68,45 @@
       </tr>
     </tbody></table>
     
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+      <tr onmouseout="gnns_stop()" onmouseover="gnns_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle">
+          <div class="one">
+            <div class="two" id='gnns_image'>
+              <img src='images/ICLR.png' width="190"></div>
+            <img src='images/ICLR.png' width="190">
+          </div>
+          <script type="text/javascript">
+            function gnns_start() {
+              document.getElementById('gnns_image').style.opacity = "1";
+            }
+
+            function gnns_stop() {
+              document.getElementById('gnns_image').style.opacity = "0";
+            }
+            nerfsuper_stop()
+          </script>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+          
+            <papertitle>	
+              Compositional VLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding</papertitle>
+          
+          <br>
+          Junyan Li, <strong>Delin Chen</strong>, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan
+          <br>
+          <em>Under Review</em>, 2023
+          <br>
+[<a href='https://openreview.net/forum?id=PHGxChm1l5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)'>Paper</a>]
+          <p> A remarkable ability of human beings resides in compositional reasoning, i.e., the capacity to make "infinite use of finite means". 
+            We propose Compositional VLM, which can guide the LLM to explicitly compose visual entities and relationships among the text and 
+            dynamically communicate with the vision encoder and detection network to achieve vision-language communicative decoding. 
+            Specifically, we first devise a set of novel communication tokens for the LLM, for dynamic communication between the visual detection system 
+            and the language system. 
+          </p>
+        </td>
+      </tr>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
