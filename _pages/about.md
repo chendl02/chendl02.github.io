@@ -17,42 +17,93 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a first-year ms student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Wuhan University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest lies in multimodal foundation model and embodied AI.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08* [FlexAttention](https://arxiv.org/abs/2407.20228) is accepted by **ECCV2024**. Check our [Project Page](https://vis-www.cs.umass.edu/flexattention/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)](https://github.com/UMass-Foundation-Model/FlexAttention)
+- *2024.01* [CoVLM](https://arxiv.org/abs/2311.03354) is accepted by **ICLR2024**. Check our [Project Page](https://vis-www.cs.umass.edu/CoVLM/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM).
+
 
 # 📝 Publications 
+**&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/flexattention/intro.jpg' alt="covlm_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+FlexAttention for Efficient High-Resolution Vision-Language Models
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Junyan Li, **Delin Chen**, Tianle Cai, Peihao Chen, Yining Hong, Zhenfang Chen, Yikang Shen, Chuang Gan
+
+[**Paper**](https://arxiv.org/pdf/2407.20228)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/FlexAttention) | [**Project Page**](https://vis-www.cs.umass.edu/flexattention/) |
+![](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)
+- FlexAttention is a plug-and-play attention module that can enhance VLMs' ability to perceive details in high resolution image in an efficient way.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2024</div><img src='images/covlm/intro.png' alt="covlm_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding
+
+Junyan Li, **Delin Chen**, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan
+
+[**Paper** ](https://arxiv.org/pdf/2311.03354.pdf)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/CoVLM) | [**Project Page**](https://vis-www.cs.umass.edu/CoVLM/)|
+![](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)
+- CoVLM is specifically designed to guide the VLM to explicitly compose visual entities and relationships among the text and dynamically communicate with the vision encoder and detection network to achieve vision-language communicative decoding. It boosts the compositional reasoning ability of VLMs and achieve SoTA performance on various tasks involving compositional analysis.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/GSS/intro.png' alt="gss_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Scratch Each Other's Back: Incomplete Multi-Modal Brain Tumor Segmentation via Category Aware Group Self-Support Learning
+
+Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wang
+
+[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf)
+
+
+- We proposed Group Self-Support Learning framework to utilize the dominating characteristics of modalities to direct the distillation of mutual knowledge between modalities without expanding the complexity of the baseline network. The result obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
+
+</div>
+</div>
+
+# 🎡 Service
+<!-- ## Conference Committee Member -->
+- Reviewer for ACM MM'2024
+- Reviewer for WACV'2025
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04* Outstanding Graduate of Wuhan University.
+- *2023.11* Leijun Undergraduate Computer Science Scholarship *Wuhan University*
+- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
+- *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2021, 2022, 2023* Excellent Student Award *Wuhan University*
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - (now)*, MS, computer science, University of Massachusetts Amherst.
+- *2020.09 - 2024.06*, Undergraduate, computer science, Wuhan University.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+#
+<dl style="text-align: center;"><a href="https://clustrmaps.com/site/1bw3j" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
+
