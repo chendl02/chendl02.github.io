@@ -25,6 +25,25 @@ My research interest lies in multimodal foundation model and embodied AI.
 # 🔥 News
 - *2024.08* [FlexAttention](https://arxiv.org/abs/2407.20228) is accepted by **ECCV2024**. Check our [Project Page](https://vis-www.cs.umass.edu/flexattention/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)](https://github.com/UMass-Foundation-Model/FlexAttention)
 - *2024.01* [CoVLM](https://arxiv.org/abs/2311.03354) is accepted by **ICLR2024**. Check our [Project Page](https://vis-www.cs.umass.edu/CoVLM/) and also [GitHub![img](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)](https://github.com/UMass-Foundation-Model/CoVLM).
+<br/>
+
+# 🔥 News
+
+
+<div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2024.08:</em> <a href="https://arxiv.org/abs/2407.20228">FlexAttention</a> is accepted by <strong>ECCV 2024</strong>. Check our <a href="https://vis-www.cs.umass.edu/flexattention/">Project Page</a> and also <a href="https://github.com/UMass-Foundation-Model/FlexAttention">GitHub</a></li>
+  <li><em>2024.07:</em> I serve as a reviewer for <strong>WACV 2025</strong>.</li>
+  <li><em>2024.01:</em> <a href="https://arxiv.org/abs/2311.03354">CoVLM</a> is accepted by <strong>ICLR 2024</strong>. Check our <a href="https://vis-www.cs.umass.edu/CoVLM/">Project Page</a> and also <a href="https://github.com/UMass-Foundation-Model/CoVLM">GitHub</a>.</li>
+  <li><em>2024.02:</em> I serve as a reviewer for <strong>ACM MM 2024</strong>.</li>
+  <li><em>2023.10:</em> One paper is accepted at <strong>MMMI@MICCAI 2023</strong> and one paper is accepted by <strong>ACM MM 2023</strong>.</li>
+  <li><em>2023.10:</em> I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).</li>
+  <li><em>2023.08:</em> <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf">GSS</a> is accepted by <strong>ICCV 2023</strong>, a novel self-distillation algorithm for multimodal data. </li>
+  <li><em>2023.06:</em> Introduce <a href="http://arxiv.org/abs/2306.11528">TransRef</a>, first transformer-based model for Reference-Guided Image Inpainting. Check our <a href="https://github.com/Cameltr/TransRef"> Github</a>.</li>
+</ul>
+</div>
+
+<br/>
 
 
 # 📝 Publications 
@@ -79,6 +98,21 @@ Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wa
 </div>
 </div>
 
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><div class="badge">ArXiv</div><img src='images\Transref\intro.png' alt="transref_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erence-Guided Image Inpainting 
+
+ Liang Liao&dagger;, Taorong Liu&dagger;, <b>Delin Chen</b>, Jing Xiao, Zheng Wang, Chia-Wen Lin, and Shin'ichi Satoh
+
+[**Paper**](http://arxiv.org/abs/2306.11528) | [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) 
+- Transref utilizes a reference image that depicts a scene similar to the corrupted image to facilitate image inpainting.
+</div>
+</div>
+
 # 🎡 Service
 <!-- ## Conference Committee Member -->
 - Reviewer for ACM MM'2024
@@ -105,5 +139,5 @@ Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wa
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 #
-<dl style="text-align: center;"><a href="https://clustrmaps.com/site/1bw3j" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
+<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1bw3j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=kX2KOIZec5lK22VitFidFZG9_RIYd8zSoWPTZZp1KA4'/></a></dl>
 
