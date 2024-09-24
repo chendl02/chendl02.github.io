@@ -28,6 +28,7 @@ My research interest lies in multimodal foundation model and embodied AI.
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
   <li><em>2024.08:</em> <a href="https://arxiv.org/abs/2407.20228">FlexAttention</a> is accepted by <strong>ECCV 2024</strong>. Check our <a href="https://vis-www.cs.umass.edu/flexattention/">Project Page</a> and also <a href="https://github.com/UMass-Foundation-Model/FlexAttention">GitHub</a></li>
   <li><em>2024.07:</em> I serve as a reviewer for <strong>WACV 2025</strong>.</li>
   <li><em>2024.01:</em> <a href="https://arxiv.org/abs/2311.03354">CoVLM</a> is accepted by <strong>ICLR 2024</strong>. Check our <a href="https://vis-www.cs.umass.edu/CoVLM/">Project Page</a> and also <a href="https://github.com/UMass-Foundation-Model/CoVLM">GitHub</a>.</li>
@@ -111,8 +112,10 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 # 🎡 Service
 <!-- ## Conference Committee Member -->
-- Reviewer for ACM MM'2024
+- Reviewer for ICLR'2025
 - Reviewer for WACV'2025
+- Reviewer for ACM MM'2024
+
 
 
 
@@ -125,8 +128,8 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
-- *2024.09 - (now)*, MS, computer science, University of Massachusetts Amherst.
-- *2020.09 - 2024.06*, Undergraduate, computer science, Wuhan University.
+- *2024.09 - (now)*, MS, Computer Science, University of Massachusetts Amherst.
+- *2020.09 - 2024.06*, Undergraduate, Computer Science, Wuhan University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
