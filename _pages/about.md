@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a first-year ms student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Wuhan University.
 
-My research interest lies in multimodal foundation model and embodied AI.
+My research interest lies in multimodal foundation model and (embodied) agent.
 
 <br/>
 
@@ -128,8 +128,15 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
-- *2024.09 - (now)*, MS, Computer Science, University of Massachusetts Amherst.
-- *2020.09 - 2024.06*, Undergraduate, Computer Science, Wuhan University.
+- University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 50px;"/>
+
+  MS, Computer Science, 2024.09 - (now), 
+  
+- Wuhan University<img src="images/insignia/whu.png" alt="WHU Insignia" style="float: right; width: 50px;"/>
+  
+  Undergraduate, Computer Science, 2020.09 - 2024.06, 
+  
+  Advisor: Prof. [Zheng Wang](https://wangzwhu.github.io/home/)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
