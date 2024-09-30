@@ -128,11 +128,14 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
-- University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 150px;"/>
+- University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 100px;"/>
 
   MS, Computer Science, 2024.09 - (now), 
   
-- Wuhan University<img src="images/insignia/whu.png" alt="WHU Insignia" style="float: right; width: 150px;"/>
+
+<br/>
+
+- Wuhan University<img src="images/insignia/whu.png" alt="WHU Insignia" style="float: right; width: 100px;"/>
   
   Undergraduate, Computer Science, 2020.09 - 2024.06, 
   
