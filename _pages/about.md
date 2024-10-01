@@ -128,12 +128,16 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
+
 - University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 100px;"/>
 
   MS, Computer Science, 2024.09 - (now), 
-  
 
-<br/>
+  Advisor: Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
+<br>
+<br>
+
+
 
 - Wuhan University<img src="images/insignia/whu.png" alt="WHU Insignia" style="float: right; width: 100px;"/>
   
@@ -148,5 +152,7 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1bw3j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=kX2KOIZec5lK22VitFidFZG9_RIYd8zSoWPTZZp1KA4'/></a></dl>
+# 👾 Misc
+
+<dl style="text-align: center;"><a href='https://clustrmaps.com/site/1bw3j'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=kX2KOIZec5lK22VitFidFZG9_RIYd8zSoWPTZZp1KA4&co=ffffff&ct=808080'/></a></dl>
 
