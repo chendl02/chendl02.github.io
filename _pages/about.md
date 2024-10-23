@@ -94,7 +94,41 @@ Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wa
 
 </div>
 </div>
+<br/>
 
+
+# 📝 Manuscripts
+**&dagger; Equal Contribution**   
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Autonomous Agents from Automatic Reward Modeling and Planning
+
+
+Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagger;, Chuang Gan
+
+<!-- [**Slides**](https://arxiv.org/pdf/2407.20228)  -->
+- A new framework for LLM-based agents using **automatic** reward models.
+- Effective, Scalable and Controllable.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/causal/intro.jpg' alt="causal_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Improving Causal Reasoning in Large Language Models: A Survey
+
+
+Siheng Xiong&dagger;, **Delin Chen&dagger;**, Qingyang Wu, Longxuan Yu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
+
+[**Paper**](https://arxiv.org/abs/2410.16676)  |  [**GitHub** ](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning) | [**Evaluation**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
+- We categorize existing methods based on the role of LLMs: either as reasoning engines or as helpers providing knowledge or data to traditional methods.
+- We evaluate the performance of LLMs on various causal reasoning tasks.
+
+</div>
+</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -107,7 +141,6 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 [**Paper**](http://arxiv.org/abs/2306.11528) | [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) 
 - Transref utilizes a reference image that depicts a scene similar to the corrupted image to facilitate image inpainting.
-</div>
 </div>
 
 # 🎡 Service
