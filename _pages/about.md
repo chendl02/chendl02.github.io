@@ -115,7 +115,7 @@ Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagge
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/causal/intro.jpg' alt="causal_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/causal/intro.png' alt="causal_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Improving Causal Reasoning in Large Language Models: A Survey
@@ -141,6 +141,7 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 [**Paper**](http://arxiv.org/abs/2306.11528) | [**GitHub** ![](https://img.shields.io/github/stars/Cameltr/TransRef?style=social)](https://github.com/Cameltr/TransRef) 
 - Transref utilizes a reference image that depicts a scene similar to the corrupted image to facilitate image inpainting.
+</div>
 </div>
 
 # 🎡 Service
