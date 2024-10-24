@@ -46,6 +46,20 @@ My research interest lies in multimodal foundation model and (embodied) agent.
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Autonomous Agents from Automatic Reward Modeling and Planning
+
+
+Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagger;, Chuang Gan
+
+<!-- [**Slides**](https://arxiv.org/pdf/2407.20228)  -->
+- A new framework for LLM-based agents using **automatic** reward models.
+- We build  effective, scalable, and controllable reward models to integrate Reflexion and MCTS.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV2024</div><img src='images/flexattention/intro.jpg' alt="covlm_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,41 +108,9 @@ Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wa
 
 </div>
 </div>
-<br/>
 
 
-# 📝 Manuscripts
-**&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Autonomous Agents from Automatic Reward Modeling and Planning
-
-
-Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagger;, Chuang Gan
-
-<!-- [**Slides**](https://arxiv.org/pdf/2407.20228)  -->
-- A new framework for LLM-based agents using **automatic** reward models.
-- Effective, Scalable and Controllable.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/causal/intro.png' alt="causal_poster" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Improving Causal Reasoning in Large Language Models: A Survey
-
-
-Siheng Xiong&dagger;, **Delin Chen&dagger;**, Qingyang Wu, Longxuan Yu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan
-
-[**Paper**](https://arxiv.org/abs/2410.16676)  |  [**GitHub** ](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning) | [**Evaluation**](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)
-- We categorize existing methods based on the role of LLMs: either as reasoning engines or as helpers providing knowledge or data to traditional methods.
-- We evaluate the performance of LLMs on various causal reasoning tasks.
-
-</div>
-</div>
 
 <div class='paper-box'>
 <div class='paper-box-image'>
