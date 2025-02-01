@@ -47,7 +47,7 @@ My research interest lies in multimodal foundation model and (embodied) agent.
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/armap/armap.gif' alt="armap_poster" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Autonomous Agents from Automatic Reward Modeling and Planning
