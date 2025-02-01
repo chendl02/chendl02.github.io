@@ -28,6 +28,7 @@ My research interest lies in multimodal foundation model and (embodied) agent.
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.01:</em> <a href="https://openreview.net/forum?id=womU9cEwcO">ARMAP</a> is accepted by <strong>ICLR 2025</strong>. Check our <a href="https://armap-agent.github.io/">Project Page</a> and also <a href="https://github.com/heaplax/ARMAP">GitHub</a></li>
   <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
   <li><em>2024.08:</em> <a href="https://arxiv.org/abs/2407.20228">FlexAttention</a> is accepted by <strong>ECCV 2024</strong>. Check our <a href="https://vis-www.cs.umass.edu/flexattention/">Project Page</a> and also <a href="https://github.com/UMass-Foundation-Model/FlexAttention">GitHub</a></li>
   <li><em>2024.07:</em> I serve as a reviewer for <strong>WACV 2025</strong>.</li>
@@ -46,7 +47,7 @@ My research interest lies in multimodal foundation model and (embodied) agent.
 # 📝 Publications 
 **&dagger; Equal Contribution**   
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/armap/intro.webp' alt="armap_poster" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Autonomous Agents from Automatic Reward Modeling and Planning
@@ -54,7 +55,8 @@ Autonomous Agents from Automatic Reward Modeling and Planning
 
 Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagger;, Chuang Gan
 
-<!-- [**Slides**](https://arxiv.org/pdf/2407.20228)  -->
+[**Paper**](https://openreview.net/forum?id=womU9cEwcO)  |  [**GitHub** ](https://github.com/heaplax/ARMAP) | [**Project Page**](https://armap-agent.github.io/) |
+![](https://img.shields.io/github/stars/heaplax/ARMAP?style=social)
 - A new framework for LLM-based agents using **automatic** reward models.
 - We build  effective, scalable, and controllable reward models to integrate Reflexion and MCTS.
 
