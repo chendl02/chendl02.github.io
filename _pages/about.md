@@ -103,7 +103,8 @@ Scratch Each Other's Back: Incomplete Multi-Modal Brain Tumor Segmentation via C
 
 Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wang
 
-[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf) |  [**GitHub** ![](https://img.shields.io/github/stars/yansheng-qiu/GSS?style=social)](https://github.com/yansheng-qiu/GSS)
+[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf) |  [**GitHub** ](https://github.com/yansheng-qiu/GSS)|
+![](https://img.shields.io/github/stars/yansheng-qiu/GSS?style=social)
 
 - We proposed Group Self-Support Learning framework to utilize the dominating characteristics of modalities to direct the distillation of mutual knowledge between modalities without expanding the complexity of the baseline network. The result obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
 
