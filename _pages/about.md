@@ -50,13 +50,13 @@ My research interest lies in multimodal foundation model and (embodied) agent.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/armap/armap.gif' alt="armap_poster" width="100%" style="display: block;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Autonomous Agents from Automatic Reward Modeling and Planning
+Scaling Autonomous Agents via Automatic Reward Modeling And Planning
 
 
 Zhenfang Chen&dagger;, **Delin Chen&dagger;**, Rui Sun&dagger;, Wenjun Liu&dagger;, Chuang Gan
 
-[**Paper**](https://openreview.net/forum?id=womU9cEwcO)  |  [**GitHub** ](https://github.com/heaplax/ARMAP) | [**Project Page**](https://armap-agent.github.io/) |
-![](https://img.shields.io/github/stars/heaplax/ARMAP?style=social)
+[**Paper**](https://openreview.net/forum?id=womU9cEwcO)  |  [**GitHub** ](https://github.com/heaplax/ARMAP) | [**Project Page**](https://armap-agent.github.io/)
+![](https://img.shields.io/github/stars/heaplax/ARMAP?style=social) | [**Awesome-Inference-Time-Scaling** ](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling)![](https://img.shields.io/github/stars/ThreeSR/Awesome-Inference-Time-Scaling?style=social) 
 - A new framework for LLM-based agents using **automatic** reward models.
 - We build  effective, scalable, and controllable reward models to integrate Reflexion and MCTS.
 
@@ -71,7 +71,7 @@ FlexAttention for Efficient High-Resolution Vision-Language Models
 
 Junyan Li, **Delin Chen**, Tianle Cai, Peihao Chen, Yining Hong, Zhenfang Chen, Yikang Shen, Chuang Gan
 
-[**Paper**](https://arxiv.org/pdf/2407.20228)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/FlexAttention) | [**Project Page**](https://vis-www.cs.umass.edu/flexattention/) |
+[**Paper**](https://arxiv.org/pdf/2407.20228)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/FlexAttention) | [**Project Page**](https://vis-www.cs.umass.edu/flexattention/) 
 ![](https://img.shields.io/github/stars/UMass-Foundation-Model/FlexAttention?style=social)
 - FlexAttention is a plug-and-play attention module that can enhance VLMs' ability to perceive details in high resolution image in an efficient way.
 
@@ -89,7 +89,7 @@ CoVLM: Composing Visual Entities and Relationships in Large Language Models Via 
 
 Junyan Li, **Delin Chen**, Yining Hong, Zhenfang Chen, Peihao Chen, Yikang Shen, Chuang Gan
 
-[**Paper** ](https://arxiv.org/pdf/2311.03354.pdf)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/CoVLM) | [**Project Page**](https://vis-www.cs.umass.edu/CoVLM/)|
+[**Paper** ](https://arxiv.org/pdf/2311.03354.pdf)  |  [**GitHub** ](https://github.com/UMass-Foundation-Model/CoVLM) | [**Project Page**](https://vis-www.cs.umass.edu/CoVLM/)
 ![](https://img.shields.io/github/stars/UMass-Foundation-Model/CoVLM?style=social)
 - CoVLM is specifically designed to guide the VLM to explicitly compose visual entities and relationships among the text and dynamically communicate with the vision encoder and detection network to achieve vision-language communicative decoding. It boosts the compositional reasoning ability of VLMs and achieve SoTA performance on various tasks involving compositional analysis.
 
@@ -103,7 +103,7 @@ Scratch Each Other's Back: Incomplete Multi-Modal Brain Tumor Segmentation via C
 
 Yansheng Qiu&dagger;, **Delin Chen&dagger;**, Hongdou Yao, Yongchao Xu, Zheng Wang
 
-[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf) |  [**GitHub** ](https://github.com/yansheng-qiu/GSS)|
+[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf) |  [**GitHub** ](https://github.com/yansheng-qiu/GSS)
 ![](https://img.shields.io/github/stars/yansheng-qiu/GSS?style=social)
 
 - We proposed Group Self-Support Learning framework to utilize the dominating characteristics of modalities to direct the distillation of mutual knowledge between modalities without expanding the complexity of the baseline network. The result obtained SOTA on BraTs 2015, 2018 and 2020 datasets.
@@ -132,7 +132,7 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 <!-- ## Conference Committee Member -->
 - Reviewer for ICLR'2025
 - Reviewer for WACV'2025
-- Reviewer for ACM MM'2024
+- Reviewer for ACM MM'2024, 2025
 
 
 
