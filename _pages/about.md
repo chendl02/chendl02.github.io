@@ -163,7 +163,7 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
-- University of Hong Kong<img src="images/insignia/hku.jpg" alt="HKU Insignia" style="float: right; width: 100px;"/>
+- University of Hong Kong<img src="images/insignia/hku.jpg" alt="HKU Insignia" style="float: right; width: 90px;"/>
 
   PhD, Computer Science, 2025.12 - (now), 
 
