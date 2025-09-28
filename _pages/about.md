@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year ms student in computer science at the University of Massachusetts Amherst, working with Prof. Chuang Gan. Previously, I was an undergraduate at Wuhan University.
+I am currently a first-year PhD student in computer science at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a> in <a href="https://xlang.ai/">XLANG Lab</a>. Previously, I was a master's student at the University of Massachusetts, working with Prof. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>, and completed my undergraduate studies at Wuhan University under the supervision of Prof. <a href="https://wangzwhu.github.io/home/">Zheng Wang</a>.
 
-My research interest lies in multimodal foundation model and (embodied) agent.
+My research interest lies in building multimodal (embodied) agents in physical world.
 
+Feel free to reach out to me if you are interested in my work, have any questions or ideas to discuss with!
 <br/>
 
 # 🔥 News
@@ -162,6 +163,13 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 
 
 # 📖 Educations
+- University of Hong Kong<img src="images/insignia/hku.jpg" alt="HKU Insignia" style="float: right; width: 100px;"/>
+
+  PhD, Computer Science, 2025.12 - (now), 
+
+  Advisor: Prof. [Tao Yu](https://taoyds.github.io/)
+<br>
+<br>
 
 - University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 100px;"/>
 
