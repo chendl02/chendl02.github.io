@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year PhD student in computer science at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a> in <a href="https://xlang.ai/">XLANG Lab</a>. Previously, I was a master's student at the University of Massachusetts, working with Prof. <a href="https://people.csail.mit.edu/ganchuang/">Chuang Gan</a>, and completed my undergraduate studies at Wuhan University under the supervision of Prof. <a href="https://wangzwhu.github.io/home/">Zheng Wang</a>.
+I am currently a first-year PhD student in computer science at the University of Hong Kong, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a> in <a href="https://xlang.ai/">XLANG Lab</a>.
 
 My research interest lies in building multimodal (embodied) agents in physical world.
 
@@ -162,28 +162,27 @@ TransRef: Multi-Scale Reference Embedding <b>Trans</b>former for <b>Ref</b>erenc
 - *2021, 2022, 2023* Excellent Student Award *Wuhan University*
 
 
-# 📖 Educations
+# 📖 Academic Experience
+
 - University of Hong Kong<img src="images/insignia/hku.jpg" alt="HKU Insignia" style="float: right; width: 90px;"/>
 
-  PhD, Computer Science, 2025.12 - (now), 
+  PhD Student, Computer Science, 2025.12 - (now)
 
   Advisor: Prof. [Tao Yu](https://taoyds.github.io/)
 <br>
 <br>
 
-- University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Insignia" style="float: right; width: 100px;"/>
+- University of Massachusetts Amherst<img src="images/insignia/umass.png" alt="UMass Amherst Insignia" style="float: right; width: 90px;"/>
 
-  MS, Computer Science, 2024.09 - (now), 
+  Research Intern, 2024.09 - 2025.06
 
   Advisor: Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/)
 <br>
 <br>
 
-
-
 - Wuhan University<img src="images/insignia/whu.png" alt="WHU Insignia" style="float: right; width: 100px;"/>
   
-  Undergraduate, Computer Science, 2020.09 - 2024.06, 
+  Undergraduate, Computer Science, 2020.09 - 2024.06
   
   Advisor: Prof. [Zheng Wang](https://wangzwhu.github.io/home/)
 
